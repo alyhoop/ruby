@@ -22,3 +22,6 @@ def DNA_strand(dna)
   end
   } .join('')
 end
+
+
+# .tr method in ruby
